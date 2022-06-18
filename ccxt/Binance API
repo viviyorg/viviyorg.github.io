@@ -1,0 +1,2 @@
+ccxt.base.errors.InsufficientFunds: binance Account has insufficient balance for requested action
+https://stackoverflow.com/questions/66178953/binance-api-account-has-insufficient-balance-for-requested-action
